@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModbusTCPSlaveExampleCSharp": {
+      "commandName": "Project",
+      "workingDirectory": "../bin"
+    }
+  }
+}
